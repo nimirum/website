@@ -1,9 +1,13 @@
 html, body {
     font-family: 'Roboto', sans-serif;
-    margin: 10%;
+    margin: 8%;
     padding: 0;
 }
 
 h1 {
     font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    margin-bottom: 50px;
 }
