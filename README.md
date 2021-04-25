@@ -1,1 +1,1 @@
-# My personal website hosted in AWS
+# My personal website hosted in AWS Amplify
